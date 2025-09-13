@@ -1,4 +1,4 @@
-# 🌟 Ex.No.4 – EXPERIMENT 4  
+# 🌟 Ex.No.4 – Generate the Prompt and eveluate that for follwoing prompt types - Comparative Analysis Prompt Experiential Perspective Prompt - Everyday Functioning Prompts - Universal Prompt Structures Prompt Refinements- Prompt Size Limitations.
 ## **Generate and Evaluate Prompts for Various Prompt Types**
 
 ### 📅 DATE:  13-09-2025
